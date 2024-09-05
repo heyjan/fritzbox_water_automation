@@ -1,9 +1,5 @@
 # fritzbox_water_automation
-Uses Fritzbox Smarthome and Fritz DECT200 for automated Watering cycles.
-
-Simple python script for automated watering cycles using newest studies from Athena.
-
-You should first measure the water amount by seconds from your dripper setup and then use the Athena Handbook for guidance.
+Uses Fritzbox Smarthome and Fritz DECT200 for automated watering of your garden for example Gardena
 
 Use test.py to test a successful connection to your Fritzbox Smarthome.
 
